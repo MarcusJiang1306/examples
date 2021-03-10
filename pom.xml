@@ -10,6 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Disruptor-demo</module>
+        <module>springboot-consul-demo</module>
+        <module>consul-demo</module>
     </modules>
 
 
